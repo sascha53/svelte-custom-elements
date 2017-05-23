@@ -5,7 +5,6 @@
   "main": "dist/svelte-custom-elements.js",
   "module": "dist/svelte-custom-elements.es.js",
   "files": [
-    "dist"
   ],
   "scripts": {
     "test": "mocha",
